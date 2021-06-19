@@ -4,4 +4,4 @@
 
 ![IhsanGan's github stats](https://github-readme-stats.vercel.app/api?username=IhsanGan&show_icons=true)
 
-![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanGan&layout=compact)
+![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=IhsanGan&langs_count=6&layout=compact)
