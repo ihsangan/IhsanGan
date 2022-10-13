@@ -27,8 +27,10 @@ let socials = new Map([
   ['tiktok', 'https://tiktok.com/@i_sanzz'],
   ['linkedin', 'https://linked.com/in/ihsanzz'],
   ['keybase', 'https://keybase.io/ihsangans'],
-  ['discord', 'https://discord.com/users/581678592715522055']
+  ['discord', 'https://discord.com/users/581678592715522055'],
+  ['views', 'https://komarev.com/ghpvc/?username=ihsangan&color=brightgreen']
 ]);
 
 ```
-![Profile views](https://komarev.com/ghpvc/?username=IhsanGan&color=brightgreen)
+#### socials.get('views')
+![](https://komarev.com/ghpvc/?username=ihsangan&color=brightgreen)
