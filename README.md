@@ -15,7 +15,7 @@ async function aboutMe() {
 #### streak.body
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsangan&date_format=j%20M%5B%20Y%5D)
 ```js
-
+  return
 };
 let socials = new Map([
   ['website', 'https://isan.eu.org/'],
