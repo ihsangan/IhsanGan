@@ -2,7 +2,7 @@
 ```js
 async function aboutMe() {
   const name = 'Muhammad Ihsan'
-  let age = 17
+  let age = 19
   let region = 'Central Borneo, Indonesia'
   let statistics = await fetch('https://github-readme-stats.vercel.app/api?username=IhsanGan&show_icons=true');
   let favLang = await fetch('https://github-readme-stats.vercel.app/api/top-langs/?username=ihsangan&langs_count=6&layout=compact');
