@@ -7,6 +7,7 @@ async function aboutMe() {
   let statistics = await fetch('https://github-readme-stats.vercel.app/api?username=IhsanGan&show_icons=true');
   let favLang = await fetch('https://github-readme-stats.vercel.app/api/top-langs/?username=ihsangan&langs_count=6&layout=compact');
   let streak  await fetch('https://github-readme-streak-stats.herokuapp.com/?user=ihsangan&date_format=j%20M%5B%20Y%5D')
+  };
 ```
 #### statistics.body
 ![statistics.body](https://github-readme-stats.vercel.app/api?username=ihsangan&show_icons=true)
@@ -15,8 +16,6 @@ async function aboutMe() {
 #### streak.body
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsangan&date_format=j%20M%5B%20Y%5D)
 ```js
-  return
-};
 let socials = new Map([
   ['website', 'https://isan.eu.org/'],
   ['instagram', 'https://instagr.am/i_snsz'],
